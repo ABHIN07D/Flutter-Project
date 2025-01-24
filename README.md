@@ -21,7 +21,7 @@ Follow the steps below to run the Water Intake Analyzer app on your local machin
 bash
 Copy
 Edit
-git clone https://github.com/your-username/water-intake-analyzer.git
+git clone https://github.com/ABHIN07D/water-intake-analyzer.git
 cd water-intake-analyzer
 2. Install Dependencies
 Make sure you have Flutter installed on your system. You can follow the instructions on the official Flutter website to set up Flutter if you haven't already.
